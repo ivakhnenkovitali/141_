@@ -7,6 +7,9 @@ public class Main2 {
         System.out.println("введите число");
         x2 = scanner.nextInt();
 
+
+
+
         try {
             res = x1 / x2;
 
