@@ -20,6 +20,8 @@ public class Main6 {
             for (int elem : arr) {
                 avg += elem;
 
+
+
             }
             avg /= arr.length;
         } catch (NullPointerException e) {

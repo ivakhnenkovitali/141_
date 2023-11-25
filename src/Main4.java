@@ -24,6 +24,8 @@ public class Main4 {
             System.out.println("вы ввели не число или деление на 0");
 
 
+
+
             System.out.println("res=" + res);
         }
     }
